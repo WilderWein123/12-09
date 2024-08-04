@@ -82,9 +82,9 @@ select * from test_table;
 *В качестве результата вашей работы пришлите скриншоты:*
 
 *1) Созданной базы данных;*
-	![](img/img1.png)
+<img src = "img/img1.jpg" width = 100%>
 *2) Результата вывода команды на реплике ```select * from test_table;```.*
-	![](img/img2.png)
+<img src = "img/img2.jpg" width = 100%>
 
 
 
